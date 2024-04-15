@@ -7,6 +7,8 @@
   border-radius: 40px;
   padding: 14px 16px;
   background-color: $l-white;
+  font-family: Poppins, sans-serif;
+  font-weight: 400;
 
   &::placeholder {
     font-weight: 400;
@@ -28,7 +30,5 @@
   &--textarea {
     height: 148px;
     resize: none;
-    font-family: Poppins, sans-serif;
-    font-weight: 400;
   }
 }
